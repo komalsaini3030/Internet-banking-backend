@@ -16,6 +16,15 @@ Account Opening Page (Accountype):-
 ![Bank 8](https://github.com/user-attachments/assets/2bf9b888-c156-48aa-8d2d-bcb167549e93)
 <img width="960" alt="Bank 9" src="https://github.com/user-attachments/assets/ae535ed2-9b2d-4ba9-8722-5ec909c631c6">
 
+<img width="960" alt="Bank 10" src="https://github.com/user-attachments/assets/2ffd8b86-8f8e-4afa-862b-7c7ca4cfb9f8">
+<img width="960" alt="Bank 11" src="https://github.com/user-attachments/assets/e7862acd-f490-40b0-b0e1-f4e0b3bf6532">
+<img width="960" alt="Bank 12" src="https://github.com/user-attachments/assets/8d896179-6910-4ba3-8cca-417fa1bf5cd5">
+<img width="960" alt="Bank 13" src="https://github.com/user-attachments/assets/50dd1845-700b-4b9b-980f-4e18edc054a5">
+<img width="960" alt="Bank 14" src="https://github.com/user-attachments/assets/e5b872b1-cfee-4774-9c0a-27921f0600c8">
+<img width="960" alt="Bank 15" src="https://github.com/user-attachments/assets/fd683e95-9a46-4bc8-aa84-cf86a6901266">
+<img width="960" alt="Bank 16" src="https://github.com/user-attachments/assets/509373bb-bb89-4ac9-8895-38e771719359">
+
+
 
 
 
